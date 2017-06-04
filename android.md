@@ -80,8 +80,6 @@ fresh-layout替代ptr控件以更优雅得实现下拉刷新（https://github.co
 
 ---
 
-# 开源项目和作品
-
 ## 开源项目
 
  - [rainbow_analytics](http://github.com/bvin/rainbow_analytics)：统计sdk
